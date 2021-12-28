@@ -14,16 +14,16 @@
 
 ## 사용 언어
 
-```js
-JavaScript;
+```
+JavaScript
 ```
 
 ## 커밋 메시지 규칙
 
 ### 예시
 
-```JavaScript
-solved: Promgrammers_81301
+```
+solved: Promgrammers_YYMMDD
 ```
 
 ## 풀이 코드 규칙
