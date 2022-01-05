@@ -29,7 +29,7 @@
 | 12954 | x만큼 간격이 있는 n개의 숫자 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12954) |                                                                                        [JavaScript](./12954-x만큼_간격이_있는_n개의_숫자.js)                                                                                         |
 | 12969 | x만큼 간격이 있는 n개의 숫자 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12969) |                                                                                               [JavaScript](./12969-직사각형_별찍기.js)                                                                                               |
 | 12977 | 소수 만들기                  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12977) |                             [JavaScript](https://velog.io/@jungjaedev/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)                              |
-| 42576 | 완주하지 못한 선수   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42576) |                                                                                             [JavaScript](./42576-완주하지_못한_선수.js)                                                                                              |
+| 42576 | 완주하지 못한 선수           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42576) |                                                                                             [JavaScript](./42576-완주하지_못한_선수.js)                                                                                              |
 | 42748 | K번째수                      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42748) |                             [JavaScript](https://velog.io/@jungjaedev/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-K%EB%B2%88%EC%A7%B8%EC%88%98JavaScript)                             |
 | 64061 | 크레인 인형뽑기 게임         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/64061) |                                                                                            [JavaScript](./64061-크레인_인형뽑기_게임.js)                                                                                             |
 | 68644 | 두 개 뽑아서 더하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/68644) |     [JavaScript](https://velog.io/@jungjaedev/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%91%90-%EA%B0%9C-%EB%BD%91%EC%95%84%EC%84%9C-%EB%8D%94%ED%95%98%EA%B8%B0-JavaScript)     |
@@ -38,3 +38,12 @@
 | 77884 | 약수의 개수와 덧셈           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/77884) |      [JavaScript](https://velog.io/@jungjaedev/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%95%BD%EC%88%98%EC%9D%98-%EA%B0%9C%EC%88%98%EC%99%80-%EB%8D%A7%EC%85%88JavaScript)      |
 | 81301 | 숫자 문자열과 영단어         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/81301) |                                                                                            [JavaScript](./81301-숫자_문자열과_영단어.js)                                                                                             |
 | 87389 | 나머지가 1이 되는 수 찾기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/87389) |                                                                                          [JavaScript](./87389-나머지가_1이_되는_수_찾기.js)                                                                                          |
+
+---
+
+## SQL문제
+
+| 번호  | 문제                 |                               문제 URL                               |                    문제 풀이                     |
+| :---: | :------------------- | :------------------------------------------------------------------: | :----------------------------------------------: |
+| 59034 | 모든 레코드 조회하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59034) | [SQL [SELECT]](./59034-모든_레코드_조회하기.sql) |
+| 59035 | 역순 정렬하기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59035) |    [SQL [SELECT]](./59035-역순_정렬하기-.sql)    |
