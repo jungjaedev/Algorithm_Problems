@@ -1,0 +1,5 @@
+-- aged하지 않은 동물 select
+
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE NOT INTAKE_CONDITION = "Aged"
