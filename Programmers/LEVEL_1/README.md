@@ -43,10 +43,12 @@
 
 ## SQL문제
 
-| 번호  | 문제                 |                               문제 URL                               |                    문제 풀이                     |
-| :---: | :------------------- | :------------------------------------------------------------------: | :----------------------------------------------: |
-| 59034 | 모든 레코드 조회하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59034) | [SQL [SELECT]](./59034-모든_레코드_조회하기.sql) |
-| 59035 | 역순 정렬하기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59035) |    [SQL [SELECT]](./59035-역순_정렬하기.sql)     |
-| 59036 | 아픈 동물 찾기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59036) |    [SQL [SELECT]](./59036-아픈_동물_찾기.sql)    |
-| 59037 | 어린 동물 찾기       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59037) |    [SQL [SELECT]](./59037-어린_동물_찾기.sql)    |
-| 59403 | 동물의 아이디와 이름 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) | [SQL [SELECT]](./59403-동물의_아이디와_이름.sql) |
+| 번호  | 문제                   |                               문제 URL                               |                     문제 풀이                      |
+| :---: | :--------------------- | :------------------------------------------------------------------: | :------------------------------------------------: |
+| 59034 | 모든 레코드 조회하기   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59034) |  [SQL [SELECT]](./59034-모든_레코드_조회하기.sql)  |
+| 59035 | 역순 정렬하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59035) |     [SQL [SELECT]](./59035-역순_정렬하기.sql)      |
+| 59036 | 아픈 동물 찾기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59036) |     [SQL [SELECT]](./59036-아픈_동물_찾기.sql)     |
+| 59037 | 어린 동물 찾기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59037) |     [SQL [SELECT]](./59037-어린_동물_찾기.sql)     |
+| 59403 | 동물의 아이디와 이름   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |  [SQL [SELECT]](./59403-동물의_아이디와_이름.sql)  |
+| 59404 | 여러 기준으로 정렬하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) | [SQL [SELECT]](./59404-여러_기준으로_정렬하기.sql) |
+| 59405 | 상위 n개 레코드        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |    [SQL [SELECT]](./59405-상위_n개_레코드.sql)     |
