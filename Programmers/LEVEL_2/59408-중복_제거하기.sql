@@ -1,0 +1,4 @@
+-- 중복제거(distinct)
+
+SELECT COUNT(DISTINCT NAME) 
+FROM ANIMAL_INS;

@@ -52,3 +52,4 @@
 | 59403 | 동물의 아이디와 이름   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |  [SQL [SELECT]](./59403-동물의_아이디와_이름.sql)  |
 | 59404 | 여러 기준으로 정렬하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) | [SQL [SELECT]](./59404-여러_기준으로_정렬하기.sql) |
 | 59405 | 상위 n개 레코드        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |    [SQL [SELECT]](./59405-상위_n개_레코드.sql)     |
+| 59415 | 최댓값 구하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59415) |  [SQL [SUM, MAX, MIN]](./59415-최댓값_구하기.sql)  |
