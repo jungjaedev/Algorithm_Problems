@@ -6,8 +6,9 @@
 
 ## SQL문제
 
-| 번호  | 문제           |                               문제 URL                               |                     문제 풀이                     |
-| :---: | :------------- | :------------------------------------------------------------------: | :-----------------------------------------------: |
-| 59038 | 최솟값 구하기  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59038) | [SQL [SUM, MAX, MIN]](./59038-최솟값_구하기.sql)  |
-| 59406 | 동물 수 구하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59406) | [SQL [SUM, MAX, MIN]](./59406-동물_수_구하기.sql) |
-| 59408 | 중복 제거하기  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59408) | [SQL [SUM, MAX, MIN]](./59408-중복_제거하기.sql)  |
+| 번호  | 문제                         |                               문제 URL                               |                         문제 풀이                          |
+| :---: | :--------------------------- | :------------------------------------------------------------------: | :--------------------------------------------------------: |
+| 59038 | 최솟값 구하기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59038) |      [SQL [SUM, MAX, MIN]](./59038-최솟값_구하기.sql)      |
+| 59406 | 동물 수 구하기               | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59406) |     [SQL [SUM, MAX, MIN]](./59406-동물_수_구하기.sql)      |
+| 59408 | 중복 제거하기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59408) |      [SQL [SUM, MAX, MIN]](./59408-중복_제거하기.sql)      |
+| 59040 | 고양이와 개는 몇 마리 있을까 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59040) | [SQL [GROUP BY]](./59040-고양이와_개는_몇_마리_있을까.sql) |
