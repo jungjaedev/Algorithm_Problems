@@ -13,4 +13,4 @@
 | 59408 | 중복 제거하기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59408) |      [SQL [SUM, MAX, MIN]](./59408-중복_제거하기.sql)      |
 | 59040 | 고양이와 개는 몇 마리 있을까 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59040) | [SQL [GROUP BY]](./59040-고양이와_개는_몇_마리_있을까.sql) |
 | 59041 | 동명 동물 수 찾기            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59041) |      [SQL [GROUP BY]](./59041-동명_동물_수_찾기.sql)       |
-| 59412 | 입양 시각 구하기(1)          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59412) |    [SQL [GROUP BY]](<./59412-입양_시각_구하기(1).sql>)     |
+| 59412 | 입양 시각 구하기(1)(1)       | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59412) |    [SQL [GROUP BY]](<./59412-입양_시각_구하기(1).sql>)     |
