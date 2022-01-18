@@ -18,3 +18,4 @@
 | 59409 | 중성화 여부 파악하기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59409) |      [SQL [String, Date]](./59409-중성화_여부_파악하기.sql)      |
 | 59410 | NULL 처리하기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59410) |            [SQL [ISNULL]](./59410-NULL_처리하기.sql)             |
 | 59412 | 입양 시각 구하기(1)          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59412) |       [SQL [GROUP BY]](<./59412-입양_시각_구하기(1).sql>)        |
+| 59414 | DATETIME에서 DATE로 형 변환  | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59414) |  [SQL [String, Date]](./59414-DATETIME에서_DATE로_형_변환.sql)   |
