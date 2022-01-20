@@ -10,7 +10,7 @@
 ### 사이트
 
 - [프로그래머스](./Programmers/README.md)
-- [제주코딩베이스캠프](./Jeju_Coding/README.md)
+- [백준](./BOJ/README.md)
 
 ## 사용 언어
 
