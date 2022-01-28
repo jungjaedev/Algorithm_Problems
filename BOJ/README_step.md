@@ -18,3 +18,9 @@
 | 1929  |    소수 구하기    | [문제주소](https://www.acmicpc.net/problem/1929)  |    [JavaScript](./기본_수학_2/1929-소수_구하기.js)    |
 | 4153  |    직각삼각형     | [문제주소](https://www.acmicpc.net/problem/4153)  |    [JavaScript](./기본_수학_2/4153-직각삼각형.js)     |
 | 11653 |    소인수분해     | [문제주소](https://www.acmicpc.net/problem/11653) |    [JavaScript](./기본_수학_2/11653-소인수분해.js)    |
+
+## [재귀](https://www.acmicpc.net/step/19)
+
+| 번호  |   문제   |                     문제 URL                      |               문제 풀이                |
+| :---: | :------: | :-----------------------------------------------: | :------------------------------------: |
+| 10872 | 팩토리얼 | [문제주소](https://www.acmicpc.net/problem/10872) | [JavaScript](./재귀/10872-팩토리얼.js) |
