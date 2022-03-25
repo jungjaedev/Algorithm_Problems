@@ -10,3 +10,4 @@
 |  13  |   몇 번째 행성   |   [문제주소](https://www.notion.so/13-d4c0ca85e92d4bcb90b6b2091a00b502)   |    [JavaScript](./13-몇번째행성.js)    |
 |  14  |     3의 배수     |  [문제주소](https://www.notion.so/14-3-40c5e827e7954e969c4eb7554021dda6)  |     [JavaScript](./14-3의배수.js)      |
 |  16  |      로꾸꺼      |   [문제주소](https://www.notion.so/16-6a79764cb50f4849ad35b30073d61df0)   |      [JavaScript](./16-로꾸꺼.js)      |
+|  17  | 놀이기구 키 제한 |   [문제주소](https://www.notion.so/17-a4f5e8077c1d4527b173f96858666127)   |  [JavaScript](./17-놀이기구키제한.js)  |
