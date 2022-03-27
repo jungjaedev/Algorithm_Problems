@@ -12,3 +12,4 @@
 |  16  |      로꾸꺼      |   [문제주소](https://www.notion.so/16-6a79764cb50f4849ad35b30073d61df0)   |      [JavaScript](./16-로꾸꺼.js)      |
 |  17  | 놀이기구 키 제한 |   [문제주소](https://www.notion.so/17-a4f5e8077c1d4527b173f96858666127)   |  [JavaScript](./17-놀이기구키제한.js)  |
 |  18  |    평균 점수     |   [문제주소](https://www.notion.so/18-4183c53d7a934f4da8fe54507dceb00a)   |     [JavaScript](./18-평균점수.js)     |
+|  19  |  제곱을 구하자   |   [문제주소](https://www.notion.so/19-b268261747b3455a874b19f9dbb89ccf)   |   [JavaScript](./19-제곱을구하자.js)   |
