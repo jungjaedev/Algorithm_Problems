@@ -13,3 +13,4 @@
 |  17  | 놀이기구 키 제한 |   [문제주소](https://www.notion.so/17-a4f5e8077c1d4527b173f96858666127)   |  [JavaScript](./17-놀이기구키제한.js)  |
 |  18  |    평균 점수     |   [문제주소](https://www.notion.so/18-4183c53d7a934f4da8fe54507dceb00a)   |     [JavaScript](./18-평균점수.js)     |
 |  19  |  제곱을 구하자   |   [문제주소](https://www.notion.so/19-b268261747b3455a874b19f9dbb89ccf)   |   [JavaScript](./19-제곱을구하자.js)   |
+|  20  |   몫과 나머지    |   [문제주소](https://www.notion.so/20-62c820e571564b488e8136d7c1b7c46f)   |    [JavaScript](./20-몫과나머지.js)    |
