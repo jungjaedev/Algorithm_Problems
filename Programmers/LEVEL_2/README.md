@@ -1,10 +1,11 @@
 # LEVEL 2
 
-| 번호  |       문제       |                               문제 URL                               |                 문제 풀이                 |
-| :---: | :--------------: | :------------------------------------------------------------------: | :---------------------------------------: |
-| 12953 | N개의 최소공배수 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12953) | [JavaScript](./12953-N개의_최소공배수.js) |
-| 42586 |     기능개발     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42586) |    [JavaScript](./42586-기능_개발.js)     |
-| 42587 |      프린터      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42587) |      [JavaScript](./42587-프린터.js)      |
+| 번호  |          문제           |                               문제 URL                               |                    문제 풀이                     |
+| :---: | :---------------------: | :------------------------------------------------------------------: | :----------------------------------------------: |
+| 12953 |    N개의 최소공배수     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12953) |    [JavaScript](./12953-N개의_최소공배수.js)     |
+| 12951 | JadenCase 문자열 만들기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12951) | [JavaScript](./12951-JadenCase_문자열_만들기.js) |
+| 42586 |        기능개발         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42586) |        [JavaScript](./42586-기능_개발.js)        |
+| 42587 |         프린터          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42587) |         [JavaScript](./42587-프린터.js)          |
 
 ## SQL문제
 
