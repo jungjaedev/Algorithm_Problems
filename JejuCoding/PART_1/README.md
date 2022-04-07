@@ -15,3 +15,4 @@
 |  19  |    제곱을 구하자    |   [문제주소](https://www.notion.so/19-b268261747b3455a874b19f9dbb89ccf)   |    [JavaScript](./19-제곱을구하자.js)    |
 |  20  |     몫과 나머지     |   [문제주소](https://www.notion.so/20-62c820e571564b488e8136d7c1b7c46f)   |     [JavaScript](./20-몫과나머지.js)     |
 |  24  | 대문자로 바꿔주세요 |   [문제주소](https://www.notion.so/24-bd6c963c0b294c8fa0b1c98f932dcc28)   | [JavaScript](./24-대문자로바꿔주세요.js) |
+|  33  |   거꾸로 출력하기   |   [문제주소](https://www.notion.so/33-e31451740a314d09ba074aac0a1002ed)   |   [JavaScript](./33-거꾸로출력하기.js)   |
