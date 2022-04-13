@@ -32,6 +32,7 @@
 | 12954 | x만큼 간격이 있는 n개의 숫자 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12954) |                                                                                        [JavaScript](./12954-x만큼_간격이_있는_n개의_숫자.js)                                                                                         |
 | 12969 | x만큼 간격이 있는 n개의 숫자 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12969) |                                                                                               [JavaScript](./12969-직사각형_별찍기.js)                                                                                               |
 | 12977 |         소수 만들기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12977) |                             [JavaScript](https://velog.io/@jungjaedev/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)                              |
+| 12982 |             예산             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/12982) |                                                                                                    [JavaScript](./12982-예산.js)                                                                                                     |
 | 42576 |      완주하지 못한 선수      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42576) |                                                                                             [JavaScript](./42576-완주하지_못한_선수.js)                                                                                              |
 | 42748 |           K번째수            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42748) |                             [JavaScript](https://velog.io/@jungjaedev/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-K%EB%B2%88%EC%A7%B8%EC%88%98JavaScript)                             |
 | 42840 |           모의고사           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/42840) |                                                                                                  [JavaScript](./42840-모의고사.js)                                                                                                   |
@@ -49,15 +50,15 @@
 
 ## SQL문제
 
-| 번호  | 문제                   |                               문제 URL                               |                       문제 풀이                       |
-| :---: | :--------------------- | :------------------------------------------------------------------: | :---------------------------------------------------: |
-| 59034 | 모든 레코드 조회하기   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59034) |   [SQL [SELECT]](./59034-모든_레코드_조회하기.sql)    |
-| 59035 | 역순 정렬하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59035) |       [SQL [SELECT]](./59035-역순_정렬하기.sql)       |
-| 59036 | 아픈 동물 찾기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59036) |      [SQL [SELECT]](./59036-아픈_동물_찾기.sql)       |
-| 59037 | 어린 동물 찾기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59037) |      [SQL [SELECT]](./59037-어린_동물_찾기.sql)       |
-| 59039 | 어린 동물 찾기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59039) | [SQL [ISNULL]](./59039-이름이_없는_동물의_아이디.sql) |
-| 59307 | 어린 동물 찾기         | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59307) | [SQL [ISNULL]](./59307-이름이_있는_동물의_아이디.sql) |
-| 59403 | 동물의 아이디와 이름   | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |   [SQL [SELECT]](./59403-동물의_아이디와_이름.sql)    |
-| 59404 | 여러 기준으로 정렬하기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |  [SQL [SELECT]](./59404-여러_기준으로_정렬하기.sql)   |
-| 59405 | 상위 n개 레코드        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |      [SQL [SELECT]](./59405-상위_n개_레코드.sql)      |
-| 59415 | 최댓값 구하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59415) |   [SQL [SUM, MAX, MIN]](./59415-최댓값_구하기.sql)    |
+| 번호  | 문제                      |                               문제 URL                               |                       문제 풀이                       |
+| :---: | :------------------------ | :------------------------------------------------------------------: | :---------------------------------------------------: |
+| 59034 | 모든 레코드 조회하기      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59034) |   [SQL [SELECT]](./59034-모든_레코드_조회하기.sql)    |
+| 59035 | 역순 정렬하기             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59035) |       [SQL [SELECT]](./59035-역순_정렬하기.sql)       |
+| 59036 | 아픈 동물 찾기            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59036) |      [SQL [SELECT]](./59036-아픈_동물_찾기.sql)       |
+| 59037 | 어린 동물 찾기            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59037) |      [SQL [SELECT]](./59037-어린_동물_찾기.sql)       |
+| 59039 | 이름이 없는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59039) | [SQL [ISNULL]](./59039-이름이_없는_동물의_아이디.sql) |
+| 59307 | 이름이 있는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59307) | [SQL [ISNULL]](./59307-이름이_있는_동물의_아이디.sql) |
+| 59403 | 동물의 아이디와 이름      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |   [SQL [SELECT]](./59403-동물의_아이디와_이름.sql)    |
+| 59404 | 여러 기준으로 정렬하기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |  [SQL [SELECT]](./59404-여러_기준으로_정렬하기.sql)   |
+| 59405 | 상위 n개 레코드           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |      [SQL [SELECT]](./59405-상위_n개_레코드.sql)      |
+| 59415 | 최댓값 구하기             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59415) |   [SQL [SUM, MAX, MIN]](./59415-최댓값_구하기.sql)    |
