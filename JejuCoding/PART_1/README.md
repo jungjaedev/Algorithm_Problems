@@ -18,3 +18,4 @@
 |  33  |   거꾸로 출력하기   |     [문제주소](https://www.notion.so/33-e31451740a314d09ba074aac0a1002ed)     |   [JavaScript](./33-거꾸로출력하기.js)   |
 |  34  |    sort 구현하기    |  [문제주소](https://www.notion.so/34-sort-35f9e8bed7f34f5a8722588b400d0d8c)   |    [JavaScript](./34-sort구현하기.js)    |
 |  35  |    Factory 함수     | [문제주소](https://www.notion.so/35-Factory-6a3a32fd25344c7e9e7ae5eaa7a37dc2) |    [JavaScript](./35-Factory함수.js)     |
+|  38  | 호준이의 아르바이트 |     [문제주소](https://www.notion.so/38-371eb506b05f4b8db674569a08304799)     | [JavaScript](./38-호준이의아르바이트.js) |
