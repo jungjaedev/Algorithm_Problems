@@ -20,3 +20,4 @@
 |  35  |    Factory 함수     | [문제주소](https://www.notion.so/35-Factory-6a3a32fd25344c7e9e7ae5eaa7a37dc2) |    [JavaScript](./35-Factory함수.js)     |
 |  38  | 호준이의 아르바이트 |     [문제주소](https://www.notion.so/38-371eb506b05f4b8db674569a08304799)     | [JavaScript](./38-호준이의아르바이트.js) |
 |  39  |    오타 수정하기    |     [문제주소](https://www.notion.so/39-e31823d5c6184efc95fdf78a86843414)     |    [JavaScript](./39-오타수정하기.js)    |
+|  42  |       2020년        |  [문제주소](https://www.notion.so/42-2020-ae1dd4dc05cd43dbb7475afb52bc00c4)   |     [JavaScript](./39-42-2020년.js)      |
