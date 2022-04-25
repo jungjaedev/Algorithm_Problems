@@ -5,3 +5,4 @@
 | Compare the Triplets | [문제주소](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true) | [JavaScript](./Compare_the_Triplets.js) |
 | Divisible Sum Pairs  | [문제주소](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)  | [JavaScript](./Divisible_Sum_Pairs.js)  |
 |    Halloween Sale    |    [문제주소](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true)    |    [JavaScript](./Halloween_Sale.js)    |
+|     Mini-Max Sum     |     [문제주소](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)     |     [JavaScript](./Mini-Max_Sum.js)     |
