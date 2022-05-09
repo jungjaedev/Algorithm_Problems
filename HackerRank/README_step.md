@@ -17,3 +17,9 @@
 |   Cats and a Mouse    |        [문제주소](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)         |   [JavaScript](./Cats_and_a_Mouse.js)    |
 |    The Hurdle Race    |         [문제주소](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)         |    [JavaScript](./The_Hurdle_Race.js)    |
 | Day of the Programmer |      [문제주소](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)      | [JavaScript](./Day_of_the_Programmer.js) |
+
+## SQL
+
+|             문제              |                                                 문제 URL                                                  |                     문제 풀이                     |
+| :---------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------: |
+| Weather Observation Station 3 | [문제주소](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [JavaScript](./Weather_Observation_Station_3.sql) |
