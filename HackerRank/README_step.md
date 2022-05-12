@@ -23,3 +23,4 @@
 |             문제              |                                                 문제 URL                                                  |                     문제 풀이                     |
 | :---------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------: |
 | Weather Observation Station 3 | [문제주소](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [JavaScript](./Weather_Observation_Station_3.sql) |
+|     Higher Than 75 Marks      |      [문제주소](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true)       |
