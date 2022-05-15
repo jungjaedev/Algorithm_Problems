@@ -18,6 +18,7 @@
 |    The Hurdle Race    |         [문제주소](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)         |    [JavaScript](./The_Hurdle_Race.js)    |
 | Day of the Programmer |      [문제주소](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)      | [JavaScript](./Day_of_the_Programmer.js) |
 |       CamelCase       |            [문제주소](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true)            |       [JavaScript](./CamelCase.js)       |
+|   Viral Advertising   |       [문제주소](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)       |   [JavaScript](./Viral_Advertising.js)   |
 
 ## SQL
 
