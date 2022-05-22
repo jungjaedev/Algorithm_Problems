@@ -23,6 +23,7 @@
 |    Alternating Characters    |     [문제주소](https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true)      |    [JavaScript](./Alternating_Characters.js)    |
 |       Apple and Orange       |        [문제주소](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)         |       [JavaScript](./Apple_and_Orange.js)       |
 | Beautiful Days at the Movies |  [문제주소](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)   | [JavaScript](./Beautiful_Days_at_the_Movies.js) |
+|        Sales by Match        |          [문제주소](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true)          |        [JavaScript](./Sales_by_Match.js)        |
 
 ## SQL
 
