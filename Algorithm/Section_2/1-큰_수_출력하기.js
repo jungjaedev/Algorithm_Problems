@@ -6,22 +6,25 @@
  *
  * COMMENT:
  * 큰 수 출력하기
- * num의 앞자리보다 큰 수 출력
+ * 앞자리보다 큰 수 출력
  **/
 
-function solution(num, arr) {
-  const answer = [];
+function solution(arr) {
+  let answer = [];
   answer.push(arr[0]);
-  const foundNumIndex = arr.findIndex(el => el === num);
-  const foundNum = arr[foundNumIndex - 1];
   for (let i = 1; i < arr.length; i++) {
-    if (foundNum < arr[i]) {
+    if (arr[i] > arr[i - 1]) {
       answer.push(arr[i]);
     }
   }
   return answer;
 }
 
-const number = 6;
-const numArr = [7, 3, 9, 5, 6, 12];
-console.log(solution(number, numArr));
+const numArr = [7, 3, 10, 9, 5, 6, 7, 9, 20, 19, 12, 15];
+console.log(solution(numArr));
+
+const numArr1 = [7, 3, 10, 9, 5, 6, 7, 9, 20, 19, 12, 11, 15, 19];
+console.log(solution(numArr1));
+
+const numArr2 = [3, 2, 1, 3, 2, 1, 3];
+console.log(solution(numArr2));
