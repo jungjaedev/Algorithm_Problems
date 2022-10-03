@@ -1,7 +1,7 @@
 /**
  * ABOUT
  *
- * DATE: 2022-10-02
+ * DATE: 2022-10-03
  * AUTHOR: jungjaedev
  *
  * COMMENT:
@@ -9,9 +9,27 @@
  **/
 
 function solution(arr) {
-  let answer = 0;
+  let max = 0;
+  let sum1 = 0;
+  let sum2 = 0;
+  for (let i = 0; i < arr.length; i++) {
+    sum1 = 0;
+    sum2 = 0;
+    for (let j = 0; j < arr.length; j++) {
+      sum1 += arr[i][j];
+      sum2 += arr[j][i];
+    }
+    max = Math.max(max, sum1, sum2);
+  }
+  sum1 = 0;
+  sum2 = 0;
+  for (let i = 0; i < arr.length; i++) {
+    sum1 += arr[i][i];
+    sum2 += arr[i][arr.length - 1 - i];
+  }
+  max = Math.max(max, sum1, sum2);
 
-  return answer;
+  return max;
 }
 
 const arr = [
