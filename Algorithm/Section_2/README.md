@@ -5,6 +5,7 @@
 |  00  | 임시반장 정하기 | [JavaScript](./00-임시반장_정하기.js) |
 |  0   |   소수구하기    |    [JavaScript](./0-소수구하기.js)    |
 |  1   | 큰 수 출력하기  |  [JavaScript](./1-큰_수_출력하기.js)  |
+|  2   |   보이는 학생   |   [JavaScript](./2-보이는_학생.js)    |
 |  3   |  가위 바위 보   |   [JavaScript](./3-가위_바위_보.js)   |
 |  4   |    점수계산     |     [JavaScript](./4-점수계산.js)     |
 |  5   |   등수구하기    |    [JavaScript](./5-등수구하기.js)    |
