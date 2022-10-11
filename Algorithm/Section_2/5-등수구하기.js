@@ -17,14 +17,13 @@ function solution(arr) {
 
   for (let i = 0; i < arr.length; i++) {
     for (let j = 0; j < arr.length; j++) {
-      if (arr[j] > arr[i]) {
+      if (arr[i] < arr[j]) {
         answer[i]++;
       }
-      console.log(1);
     }
   }
   return answer;
 }
 
-const arr = [87, 89, 92, 100, 76];
+const arr = [87, 87, 92, 100, 76];
 console.log(solution(arr));

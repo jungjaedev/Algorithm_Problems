@@ -4,7 +4,6 @@
 
 ## 문제 유형
 
-- [Section 1](./Section_1/README.md)
 - [Section 2](./Section_2/README.md)
 
 ## 문제 리스트 표시 규칙
