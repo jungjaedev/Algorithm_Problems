@@ -21,7 +21,6 @@ function solution(n, arr) {
       max = sum;
     }
   }
-
   return max;
 }
 
