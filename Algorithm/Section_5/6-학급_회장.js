@@ -31,6 +31,27 @@ function solution(str) {
   return answer;
 }
 
-const str = 'BACBACCACCBDEDE';
+// use hashmap
+function solution1(str) {
+  let answer;
+  let hash = new Map();
+  for (let i = 0; i < str.length; i++) {
+    if (hash.has(str[i])) {
+      hash.set(str[i], hash.get(str[i]) + 1);
+    } else {
+      hash.set(str[i], 1);
+    }
+  }
+  let maxValue = 0;
+  for (const [key, value] of hash) {
+    if (maxValue < value) {
+      maxValue = value;
+      answer = key;
+    }
+  }
+  return answer;
+}
 
-console.log(solution(str));
+const str = 'DDACBBBEABBEABEDCBADDEBBEDABADDBBBBEDDBBBBEBBACCDB';
+
+console.log(solution1(str));

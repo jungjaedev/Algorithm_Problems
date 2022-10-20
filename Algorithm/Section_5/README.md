@@ -5,3 +5,4 @@
 |  2   | 공통원소 구하기 | [JavaScript](./2-공통원소_구하기.js) |
 |  5   |    최대 매출    |    [JavaScript](./5-최대_매출.js)    |
 |  6   |    학급 회장    |    [JavaScript](./6-학급_회장.js)    |
+|  7   |    아나그램     |    [JavaScript](./7-아나그램.js)     |
