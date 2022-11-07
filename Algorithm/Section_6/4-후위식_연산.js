@@ -11,15 +11,21 @@
 function solution(str) {
   let answer;
   let stack = [];
-  for (let x of s) {
-    if (!isNaN(x)) stack.push(Number(x));
-    else {
+  for (let i = 0; i < str.length; i++) {
+    if (!isNaN(str[i])) {
+      stack.push(parseInt(str[i]));
+    } else {
       let rt = stack.pop();
       let lt = stack.pop();
-      if (x === "+") stack.push(lt + rt);
-      else if (x === "-") stack.push(lt - rt);
-      else if (x === "*") stack.push(lt * rt);
-      else if (x === "/") stack.push(lt / rt);
+      if (str[i] === "+") {
+        stack.push(lt + rt);
+      } else if (str[i] === "-") {
+        stack.push(lt - rt);
+      } else if (str[i] === "*") {
+        stack.push(lt * rt);
+      } else if (str[i] === "/") {
+        stack.push(lt / rt);
+      }
     }
   }
   answer = stack[0];
