@@ -52,15 +52,17 @@
 
 ## SQL문제
 
-| 번호  | 문제                      |                               문제 URL                               |                       문제 풀이                       |
-| :---: | :------------------------ | :------------------------------------------------------------------: | :---------------------------------------------------: |
-| 59034 | 모든 레코드 조회하기      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59034) |   [SQL [SELECT]](./59034-모든_레코드_조회하기.sql)    |
-| 59035 | 역순 정렬하기             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59035) |       [SQL [SELECT]](./59035-역순_정렬하기.sql)       |
-| 59036 | 아픈 동물 찾기            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59036) |      [SQL [SELECT]](./59036-아픈_동물_찾기.sql)       |
-| 59037 | 어린 동물 찾기            | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59037) |      [SQL [SELECT]](./59037-어린_동물_찾기.sql)       |
-| 59039 | 이름이 없는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59039) | [SQL [ISNULL]](./59039-이름이_없는_동물의_아이디.sql) |
-| 59307 | 이름이 있는 동물의 아이디 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59307) | [SQL [ISNULL]](./59307-이름이_있는_동물의_아이디.sql) |
-| 59403 | 동물의 아이디와 이름      | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |   [SQL [SELECT]](./59403-동물의_아이디와_이름.sql)    |
-| 59404 | 여러 기준으로 정렬하기    | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |  [SQL [SELECT]](./59404-여러_기준으로_정렬하기.sql)   |
-| 59405 | 상위 n개 레코드           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403) |      [SQL [SELECT]](./59405-상위_n개_레코드.sql)      |
-| 59415 | 최댓값 구하기             | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59415) |   [SQL [SUM, MAX, MIN]](./59415-최댓값_구하기.sql)    |
+|  번호  | 문제                          |                               문제 URL                                |                         문제 풀이                          |
+| :----: | :---------------------------- | :-------------------------------------------------------------------: | :--------------------------------------------------------: |
+| 133024 | 인기있는 아이스크림           | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/133024) |      [SQL [SELECT]](./133024-인기있는_아이스크림.sql)      |
+| 133025 | 과일로 만든 아이스크림 고르기 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/133025) | [SQL [SELECT]](./133025-과일로_만든_아이스크림_고르기.sql) |
+| 59034  | 모든 레코드 조회하기          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59034)  |      [SQL [SELECT]](./59034-모든_레코드_조회하기.sql)      |
+| 59035  | 역순 정렬하기                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59035)  |         [SQL [SELECT]](./59035-역순_정렬하기.sql)          |
+| 59036  | 아픈 동물 찾기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59036)  |         [SQL [SELECT]](./59036-아픈_동물_찾기.sql)         |
+| 59037  | 어린 동물 찾기                | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59037)  |         [SQL [SELECT]](./59037-어린_동물_찾기.sql)         |
+| 59039  | 이름이 없는 동물의 아이디     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59039)  |   [SQL [ISNULL]](./59039-이름이_없는_동물의_아이디.sql)    |
+| 59307  | 이름이 있는 동물의 아이디     | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59307)  |   [SQL [ISNULL]](./59307-이름이_있는_동물의_아이디.sql)    |
+| 59403  | 동물의 아이디와 이름          | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403)  |      [SQL [SELECT]](./59403-동물의_아이디와_이름.sql)      |
+| 59404  | 여러 기준으로 정렬하기        | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403)  |     [SQL [SELECT]](./59404-여러_기준으로_정렬하기.sql)     |
+| 59405  | 상위 n개 레코드               | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59403)  |        [SQL [SELECT]](./59405-상위_n개_레코드.sql)         |
+| 59415  | 최댓값 구하기                 | [문제주소](https://programmers.co.kr/learn/courses/30/lessons/59415)  |      [SQL [SUM, MAX, MIN]](./59415-최댓값_구하기.sql)      |
