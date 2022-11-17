@@ -7,6 +7,7 @@
 - [Section 2](./Section_2/README.md)
 - [Section 5](./Section_5/README.md)
 - [Section 6](./Section_6/README.md)
+- [Section 7](./Section_7/README.md)
 
 ## 문제 리스트 표시 규칙
 
